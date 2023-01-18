@@ -1,0 +1,2 @@
+# Nocturne_Lambda_Server
+Websocketを使用したUnity製ゲームのマルチプレイに使用するNodejsのサーバーになります。
